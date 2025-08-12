@@ -58,5 +58,5 @@ O sistema permite filtrar por **ano**, **nível de senioridade**, **tipo de cont
   streamlit run app.py
   ```
 **👨‍💻 Desenvolvedor**
+---
 🐍[PedroHeitor12567](https://github.com/PedroHeitor12567)
-
